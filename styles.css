@@ -194,6 +194,7 @@ line-height: 25px;
   border-radius: 10px;
   position: relative;
   overflow: hidden;
+   align-items: center;
 }
 .work img{
  width: 100%;
@@ -220,6 +221,7 @@ line-height: 25px;
  transition: height 0.5s;
 }
 .layerss h3{
+  font-size: 13px;
   font-weight: 500;
   margin-bottom: 20px;
 }
@@ -227,7 +229,7 @@ line-height: 25px;
   margin-top: 20px;
   color: #ff004f;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 15px;
   line-height: 60px;
   background: #ffff;
   width: 60px;
